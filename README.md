@@ -1,4 +1,4 @@
-# We are not Kirgizstan. We are Kyrgyzstan 🇰🇬.
+# We are not Kirgizstan. We are Kyrgyz Republic 🇰🇬.
 
 ## Correcting the wrong country name 🇰🇬
 
@@ -19,7 +19,7 @@ so if you want to coloborate with us welcome!!
 
 ## Download extention
 
-- Chrome Extention Link - [We are Kyrgyzstan](https://chrome.google.com/webstore/detail/%D0%BC%D1%8B-%E2%80%93-%D0%BA%D1%8B%D1%80%D0%B3%D1%8B%D0%B7%D1%81%D1%82%D0%B0%D0%BD/gjcihakccbdfpemehmnjjjfjbcfpnben)
+- Chrome Extention Link - [We are Kyrgyz Republic](https://chrome.google.com/webstore/detail/%D0%BC%D1%8B-%E2%80%93-%D0%BA%D1%8B%D1%80%D0%B3%D1%8B%D0%B7%D1%81%D1%82%D0%B0%D0%BD/gjcihakccbdfpemehmnjjjfjbcfpnben)
 
 ## Manual install
 
