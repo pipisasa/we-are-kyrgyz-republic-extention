@@ -1,4 +1,4 @@
-# We are not Kyrgyzstan. We are Kyrgyzstan 🇰🇬.
+# We are not Kirgizstan. We are Kyrgyzstan 🇰🇬.
 
 ## Correcting the wrong country name 🇰🇬
 
